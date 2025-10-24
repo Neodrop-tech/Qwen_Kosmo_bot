@@ -1,3 +1,1 @@
-BotFather 8436529839:AAE8oid5IhCkOs-TdlKtk0fR7h23UkrYHhQ
-Hugging Face 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
-openrouter.ai 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
+
