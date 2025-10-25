@@ -1,5 +1,5 @@
-from http.server import HTTPServer, BaseHTTPRequestHandler
 import os
+from http.server import HTTPServer, BaseHTTPRequestHandler
 
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
